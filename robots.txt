@@ -1,0 +1,7 @@
+User-agent: *
+
+# 部分專案不可爬
+# Disallow: /workflowerp_schema/
+
+# 所有專案頁面不可爬
+Disallow: /
